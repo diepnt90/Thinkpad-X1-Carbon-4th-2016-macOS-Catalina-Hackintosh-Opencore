@@ -1,7 +1,7 @@
 # Thinkpad X1 Carbon 4th 2016 running macOS (OpenCore bootloader)
 
 > First OpenCore build for X1C4 ever
-
+![Thinkpad X1 Carbon 4th](/9655a000-777e-11ea-8d08-324a538ea84d.png)
 
 ## Introduction
 
