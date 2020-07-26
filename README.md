@@ -99,6 +99,8 @@ to accomplish that, use the settings below
 
 Karabiner-Elements for remap F keyboard functions
 
+https://irvue.tumblr.com for changing wallpaper automatically from Unplash
+
 
 #### Monitor temperatures and power consumption with [HWMonitor](https://github.com/kzlekk/HWSensors/releases)
 
