@@ -3,9 +3,6 @@
 > First OpenCore build for X1C4 ever
 
 
-
-![Thinkpad X1C4](/Images/T460s.png)
-
 ## Introduction
 
 ### General knowledge & credits
@@ -79,7 +76,6 @@ Energy Performance Preference (EPP) = 80 #(Balance power)
 
 That's how power consumption looks like on my machine at idle state:
 
-![](/Images/PowerConsumption.png)
 
 ### True Macbook experience 
 
@@ -96,18 +92,11 @@ open it, click on "resolution", then "edit"
 for 2560x1440 screens I suggest using 1440x810 resolution
 to accomplish that, use the settings below
 ```
-![](/Images/HiDPI.png)
 
 ### Other tweaks
 
 Karabiner-Elements for remap F keyboard functions
 
-#### Use PrtSc key as Screenshot shortcut
-
-```sh
-set F13 shortcut under SystemPreferences > Keyboard > Shortcuts > Screenshots
-```
-![](/Images/Shortcut.png)
 
 #### Monitor temperatures and power consumption with [HWMonitor](https://github.com/kzlekk/HWSensors/releases)
 
