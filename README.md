@@ -2,6 +2,8 @@
 
 > First OpenCore build for X1C4 ever
 ![Thinkpad X1 Carbon 4th](/9655a000-777e-11ea-8d08-324a538ea84d.png)
+![Thinkpad X1 Carbon 4th](/82284559-ADFC-4FF3-AABA-B98FD046EDB6.JPG)
+
 
 ## Introduction
 
